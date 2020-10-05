@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ahmetkasif/ahmetkasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as part of a research lab specializing in A.I. on computer vision and music. 
 - 🌱 I’m currently learning Deep Learning and Music Theory.
 - 👯 I’m looking to collaborate on building that special DL model ;]
