@@ -7,5 +7,5 @@
 - 📫 How to reach me: ahmet.kasif@btu.edu.tr | t.me/ahmetkasif
 - 😄 Pronouns: Researcher.. enough
 - ⚡ Fun fact: There is no free lunch, and i find it fun to look for some.
---> Finally, my academic website (a bit outdated) : https://ahmetkasif.github.io
---> And my availability timetable : To be updated
+- 💪 My academic website (a bit outdated): https://ahmetkasif.github.io
+- 🕑 My availability timetable : To be updated
