@@ -8,4 +8,5 @@
 - 😄 Pronouns: Researcher.. enough
 - ⚡ Fun fact: There is no free lunch, and i find it fun to look for some.
 - 💪 My academic website (a bit outdated): https://ahmetkasif.github.io
-- 🕑 My availability timetable : To be updated
+- 🕑 My availability timetable (Plan an appointment prior for best results) :
+![](https://github.com/ahmetkasif/ahmetkasif/blob/main/availability.JPG)
