@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as part of a research lab specializing in A.I. on computer vision and music. 
+- 🔭 I’m currently working as part of a research lab specializing in A.I. on computer vision and music in Bursa Technical University
 - 🌱 I’m currently learning Deep Learning and Music Theory.
 - 👯 I’m looking to collaborate on building that special DL model ;]
 - 💬 Ask me about anything, literally..
