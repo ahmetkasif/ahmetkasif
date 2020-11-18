@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on building that special DL model ;]
 - 💬 Ask me about anything, literally..
 - 📫 How to reach me: ahmet.kasif@btu.edu.tr | t.me/ahmetkasif
-- 😄 Pronouns: Researcher.. enough
+- 😄 Pronouns: Researcher
 - ⚡ Fun fact: There is no free lunch, and i find it fun to look for some.
 - 💪 My academic website (a bit outdated): https://ahmetkasif.github.io
 - 🕑 My availability timetable (Plan an appointment prior for best results) :
