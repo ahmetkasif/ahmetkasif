@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi buddy 👋
 
-- 🔭 I’m currently working as part of a research lab. as well as developing cutting edge Web Applications.
-- 🌱 I’m currently learning Deep Learning, Music Theory and playing Guitar.
-- 👯 I’m looking to collaborate on building that special DL model ;]
-- 💬 Ask me about anything, literally..
-- 📫 How to reach me: ahmet.kasif@btu.edu.tr | t.me/ahmetkasif
-- 😄 Pronouns: Researcher
-- ⚡ Fun fact: There is no free lunch, and i find it fun to look for some.
-- 💪 My academic website: https://ahmetkasif.github.io
+- 🔭 I’m currently working as part of a research lab specializing in A.I. in Computer Music. 
+- ⚡ I am a full-stack Web Developer having 5 years of experience at ReactJS, MeteorJS and NodeJS.
+- 🌱 My current study focuses are Deep Learning, Music Theory, Guitars and Russian Language.
+- 💬 I love open source community and would love to help anyone who needs help, so reach out!
+- 📫 How to reach me: ahmet.kasif@btu.edu.tr | ksfahmet@gmail.com | t.me/ahmetkasif
+- 💪 My academic website (updated per 6 month): https://ahmetkasif.github.io
