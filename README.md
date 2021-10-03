@@ -1,6 +1,6 @@
 ###
-- 🔭 Working as part of a research lab in Bursa Technical University, specializing at A.I. in Computer Music. 
-- ⚡ Full-stack Web Developer, having 5 years of experience at ReactJS, MeteorJS and NodeJS.
-- 🌱 Current study focuses are Deep Learning, Music Theory, Guitars and Russian Language.
+- 🔭 Working as part of a research lab in Bursa Technical University, specializing on A.I. in Computer Music. 
+- ⚡ Full-stack Web Developer, 5 years of experience at ReactJS, MeteorJS and NodeJS.
+- 🌱 Research Interests: Deep Learning, Music Theory, and Information Security.
 - 📫 How to reach: ahmet.kasif@btu.edu.tr | ksfahmet@gmail.com | t.me/ahmetkasif
-- 💪 Academic website (updated per 6 month): https://ahmetkasif.github.io
+- 💪 Academic website: https://ahmetkasif.com
